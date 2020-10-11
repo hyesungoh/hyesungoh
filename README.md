@@ -11,10 +11,12 @@
 
 #### Back-end Engineer
 Using Ruby on Rails, Django
+
 Machine Learning with Tensorflow, Keras
 
 #### Interest
 iOS native with swift
+
 Learning algorithm
 
 <hr>
