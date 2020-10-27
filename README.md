@@ -28,8 +28,10 @@ Algorithm with Python
 
 <div align=center>
 
-[![Solved.acs
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)](https://solved.ac/hs980414)
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)](https://solved.ac/hs98041)
+
 
 </div>
 <!--
