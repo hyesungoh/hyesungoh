@@ -30,9 +30,8 @@ Algorithm with Python
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)](https://solved.ac/hs980414)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hs980414)](https://solved.ac/hs980414)
 
 </div>
 <!--
