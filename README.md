@@ -6,11 +6,9 @@
 
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<hr>
 
 #### Back-end Engineer
 Using Ruby on Rails, Django
@@ -27,6 +25,9 @@ Algorithm with Python
 <hr>
 
 <div align=center>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
