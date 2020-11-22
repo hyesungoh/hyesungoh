@@ -18,7 +18,7 @@ Using Ruby on Rails, Django
 iOS native with swift
 
 #### Currently learning
-Vanilla JS
+React
 
 Algorithm with Python
 
