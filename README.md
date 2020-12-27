@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=4B9BC6&height=240&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20👋&fontSize=24&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4B9BC6&height=180&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20👋&fontSize=24&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%233D99C8&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 🧑🏻‍💻 Web Developer
 
->🐥 : React with JavaScript, TypeScript and Sass
+>🐥 : React with JavaScript, TypeScript and Sass <br/>
 >🔙 : Django, Ruby on Rails
 
 #### 🙇🏻‍♂️ Currently learning
 
->Algorithm with Python
->React with TypeScript
+>Algorithm with Python <br/>
+>React with TypeScript <br/>
 >Firebase
 
 ####
@@ -58,6 +58,8 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
