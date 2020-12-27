@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=3776AB&height=280&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20👋&fontSize=50&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4B9BC6&height=240&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20👋&fontSize=24&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%233D99C8&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### 🧑🏻‍💻 Web Developer
 
-🐥 : React with JavaScript, TypeScript and Sass <br/>
-🔙 : Django, Ruby on Rails
+>🐥 : React with JavaScript, TypeScript and Sass
+>🔙 : Django, Ruby on Rails
 
 #### 🙇🏻‍♂️ Currently learning
 
-Algorithm with Python <br/>
-React with TypeScript <br/>
-Firebase
+>Algorithm with Python
+>React with TypeScript
+>Firebase
 
 ####
 
@@ -33,7 +33,7 @@ Firebase
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
 
 <br/>
 
@@ -43,7 +43,7 @@ Firebase
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
