@@ -8,14 +8,14 @@
 
 ### 🧑🏻‍💻 Web Developer
 
-> 🐥 : React with JavaScript, TypeScript and Sass <br/>
+> 🐥 : React with JavaScript and TypeScript <br/>
 > 🔙 : Django, Ruby on Rails
 
 ### 🙇🏻‍♂️ Currently learning
 
 > Algorithm with Python <br/>
 > React with TypeScript <br/>
-> Firebase
+> Redux
 
 ### 📚 Tech that I've used at least once
 
