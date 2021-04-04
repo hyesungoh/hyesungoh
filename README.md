@@ -2,20 +2,31 @@
 
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%233D99C8&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%233D99C8&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 </div>
 
-### 🧑🏻‍💻 Web Developer
+### 🧑🏻‍💻 FE Developer
 
-> 🐥 : React with JavaScript and TypeScript <br/>
-> 🔙 : Django, Ruby on Rails
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 ### 🙇🏻‍♂️ Currently learning
 
-> Algorithm with Python <br/>
+> Algorithm with JavaScript and Python <br/>
 > React with TypeScript <br/>
 > Redux
+
+### 👨‍👩‍👧‍👦 Contributed to
+
+> [🐝 gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
 
 ### 📚 Tech that I've used at least once
 
@@ -64,7 +75,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
-
 
 ---
 
