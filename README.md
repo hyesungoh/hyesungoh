@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=4B9BC6&height=180&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20👋&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4B9BC6&height=180&section=header&text=Hi%20there,%20I'm%20hyesungoh!%20☄️&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
 <div align=right>
 
@@ -18,15 +18,12 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
 </div>
 
 ### 🙇🏻‍♂️ Currently learning
 
-> Algorithm with JavaScript and Python <br/>
-> React with TypeScript <br/>
-> Redux
+> 🤖 Algorithm with Py, JS  
+> 🧗 React, Redux
 
 ### 👨‍👩‍👧‍👦 Contributed to
 
@@ -82,7 +79,14 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<img width="455" height="165" src="https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues" />
+<img width="455" height="165" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
+
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)
 
 </div>
 <!--
