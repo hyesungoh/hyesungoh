@@ -79,14 +79,8 @@
 
 ---
 
-<img width="455" height="165" src="https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues" />
-<img width="455" height="165" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
-
-
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)
+<img width="350"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues" />
+<img width="350"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
 
 </div>
 <!--
