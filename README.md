@@ -22,8 +22,8 @@
 
 ### 🙇🏻‍♂️ Currently learning
 
-> 🤖 Algorithm with Py, JS  
-> 🧗 React, Redux
+> Algorithm with Py, JS  
+> React, Redux
 
 ### 👨‍👩‍👧‍👦 Contributed to
 
@@ -79,8 +79,8 @@
 
 ---
 
-<img width="350"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues" />
-<img width="350"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
+<img width="452"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&hide=issues" />
+<img width="320"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
 
 </div>
 <!--
