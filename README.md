@@ -28,8 +28,7 @@
 
 ### 🙇🏻‍♂️ Currently learning
 
-> Next,js
-> Recoil, React-Query
+> Next.js, Recoil, React-Query
 
 ### 👨‍👩‍👧‍👦 Contributed to
 
