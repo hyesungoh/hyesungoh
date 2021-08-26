@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -38,7 +38,7 @@
 
 <div align=center>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
 
