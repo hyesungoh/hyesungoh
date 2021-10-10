@@ -6,8 +6,6 @@
 
 </p>
 
-<br/>
-
 Hello there :smiley: <br/>
 I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
 
@@ -56,17 +54,10 @@ I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
 
 <div align=center>
 
-<span align="left">
+<img width="350"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&show_icons=true&count_private=true&theme=dracula" />
 
-![readmeStat](https://github-readme-stats.vercel.app/api?username=hyesungoh&show_icons=true&count_private=true&theme=dracula)
+<img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=hyesungoh&theme=dracula&date_format=%5BY%20%5DM%20j">
 
-</span>
-<span align="right">
-
-![githubStreak](http://github-readme-streak-stats.herokuapp.com?user=hyesungoh&theme=dracula&date_format=%5BY%20%5DM%20j)
-
-</span>
-
-![bojRank](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414)
+<img width="320"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
 
 </div>
