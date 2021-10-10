@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%238be9fd&title_bg=%2344475a&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"> -->
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%238be9fd&title_bg=%2344475a&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 
 <p align="left">
 
@@ -54,10 +54,10 @@ I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
 
 <div align=center>
 
-<img width="350"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&show_icons=true&count_private=true&theme=dracula" />
+<img width="380"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&show_icons=true&count_private=true&theme=dracula" />
 
-<img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=hyesungoh&theme=dracula&date_format=%5BY%20%5DM%20j">
+<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hyesungoh&theme=dracula&date_format=%5BY%20%5DM%20j">
 
-<img width="320"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
+<img width="350"  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hs980414" />
 
 </div>
