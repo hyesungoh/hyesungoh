@@ -19,7 +19,7 @@ I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
 <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+<img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Mui&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img src="https://img.shields.io/badge/ChakraUI-319795?style=flat-square&logo=Chakra-UI&logoColor=white"/>
@@ -48,7 +48,9 @@ I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
 
 <h2>👨‍👩‍👧‍👦 &nbsp;Contributed at</h2>
 
-<a style="color:#ffb86c" href="https://github.com/JaeYeopHan/gatsby-starter-bee" target="_blank">&nbsp;&nbsp;&nbsp;🐝 &nbsp;gatsby-starter-bee</a>
+<a href="https://github.com/JaeYeopHan/gatsby-starter-bee" target="_blank">&nbsp;&nbsp;&nbsp;🐝 &nbsp;gatsby-starter-bee</a>
+
+<a href="https://github.com/remix-run/react-router" target="_blank">&nbsp;&nbsp;&nbsp;🏕 &nbsp;react-router</a> <i>just docs, yet!</i>
 
 <h2>📈 &nbsp;Some Stats</h2>
 
