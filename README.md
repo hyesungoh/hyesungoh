@@ -1,1 +1,16 @@
-![Metrics](https://metrics.lecoq.io/hyesungoh?template=classic&isocalendar=1&stars=1&notable=1&achievements=1&posts=1&isocalendar.duration=full-year&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&posts.source=hashnode&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FSeoul)
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyesungoh%2Fhit-counter&count_bg=%238be9fd&title_bg=%2344475a&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+
+<p align="left">
+
+### <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Hyesung Oh</b>
+
+</p>
+
+Hello there :smiley: <br/>
+I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
+
+💡 &nbsp;I like to share my knowledge for those who wandering in issue.<br/>
+🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.<br/>
+💬 &nbsp;Feel free to reach out to me for everythings.<br/>
+
+![Metrics](/github-metrics.svg)
