@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */6 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -33,11 +33,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_notable: yes
+          plugin_notable_filter: stars:>50
           plugin_notable_from: all
-          plugin_notable_types: commit
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit, pull_request
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: hashnode
           plugin_posts_user: .user.login
-          plugin_stars: yes
-          plugin_stars_limit: 4
