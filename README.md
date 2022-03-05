@@ -2,15 +2,12 @@
 
 <p align="left">
 
-### <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Hyesung Oh</b>
-
-</p>
-
-Hello there :smiley: <br/>
+Hello there&nbsp;<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /><br/>
 I'm Hyesung Oh, Front-End developer from :kr: Korea. <br/>
-
 💡 &nbsp;I like to share my knowledge for those who wandering in issue.<br/>
 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.<br/>
 💬 &nbsp;Feel free to reach out to me for everythings.<br/>
+
+</p>
 
 ![Metrics](/github-metrics.svg)
