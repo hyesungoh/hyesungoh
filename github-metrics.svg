@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5693 Commits
+                            5694 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -264,6 +264,19 @@
                                 </svg>
                                 <div class="infos">
                                     <div class="left">
+                                        <div class="date">9 Nov 2023</div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">'어떻게 사랑할 것인가'를 읽고</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
                                         <div class="date">5 Nov 2023</div>
                                     </div>
                                     <div class="right">
@@ -294,19 +307,6 @@
                                     </div>
                                     <div class="right">
                                         <div class="title">'불안'을 읽고</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="field post largeable-width-half">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                                </svg>
-                                <div class="infos">
-                                    <div class="left">
-                                        <div class="date">12 Sept 2023</div>
-                                    </div>
-                                    <div class="right">
-                                        <div class="title">'달리기를 말할 때 내가 하고 싶은 이야기'를 읽고</div>
                                     </div>
                                 </div>
                             </div>
@@ -2330,7 +2330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2023, 00:13:22 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 03:16:27 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
