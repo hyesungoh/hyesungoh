@@ -35,4 +35,4 @@ jobs:
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: hashnode
-          plugin_posts_user: hyesungoh
+          plugin_posts_user: .user.login
