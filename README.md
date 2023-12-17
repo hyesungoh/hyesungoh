@@ -12,11 +12,11 @@ I'm Hyesung Oh, Frontend developer from :kr: Korea. <br/>
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
+- [일상에서 성장에 유리한 환경 만들기](https://www.hyesungoh.xyz/growth-in-everyday-life)
 - [&#39;마케팅을 바꾸는 데이터의 힘&#39;을 읽고](https://www.hyesungoh.xyz/마케팅을-바꾸는-데이터의-힘)
 - [&#39;어떻게 사랑할 것인가&#39;를 읽고](https://www.hyesungoh.xyz/어떻게-사랑할-것인가)
 - [&#39;1만 시간의 재발견&#39;을 읽고](https://www.hyesungoh.xyz/1만-시간의-재발견)
 - [&#39;읽기 좋은 코드가 좋은 코드다&#39;를 읽고](https://www.hyesungoh.xyz/읽기-좋은-코드가-좋은-코드다)
-- [&#39;불안&#39;을 읽고](https://www.hyesungoh.xyz/불안)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/github-metrics.svg)
