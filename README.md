@@ -10,11 +10,11 @@ I'm Hyesung Oh, Developer from :kr: South Korea. <br/>
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
+- [&#39;쏙쏙 들어오는 함수형 코딩&#39;을 읽고](https://www.hyesungoh.xyz/쏙쏙-들어오는-함수형-코딩)
 - [&#39;모던 리액트 Deep Dive&#39;를 읽고](https://www.hyesungoh.xyz/모던-리액트-Deep-Dive)
 - [&#39;파리대왕&#39;을 읽고](https://www.hyesungoh.xyz/파리대왕)
 - [낡은 보스턴백](https://www.hyesungoh.xyz/2023-review)
 - [일상에서 성장에 유리한 환경 만들기](https://www.hyesungoh.xyz/growth-in-everyday-life)
-- [&#39;마케팅을 바꾸는 데이터의 힘&#39;을 읽고](https://www.hyesungoh.xyz/마케팅을-바꾸는-데이터의-힘)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/github-metrics.svg)
