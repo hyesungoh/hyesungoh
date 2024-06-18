@@ -8,7 +8,7 @@ I'm Hyesung Oh, Developer from :kr: South Korea. <br/>
 
 </p>
 
-<img align="right" src="https://render.gitanimals.org/lines/hyesungoh?pet-id=1" width="100" height="1200"/>
+<img align="right" src="https://render.gitanimals.org/lines/hyesungoh?pet-id=1" width="100" height="800"/>
 
 <p align="left">
 
