@@ -14,11 +14,11 @@ I'm Hyesung Oh, Developer from :kr: South Korea. <br/>
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
+- [&#39;유난한 도전&#39;을 읽고](https://www.hyesungoh.xyz/유난한-도전)
 - [&#39;직업으로서의 소설가&#39;를 읽고](https://www.hyesungoh.xyz/직업으로서의-소설가)
 - [&#39;쏙쏙 들어오는 함수형 코딩&#39;을 읽고](https://www.hyesungoh.xyz/쏙쏙-들어오는-함수형-코딩)
 - [&#39;모던 리액트 Deep Dive&#39;를 읽고](https://www.hyesungoh.xyz/모던-리액트-Deep-Dive)
 - [&#39;파리대왕&#39;을 읽고](https://www.hyesungoh.xyz/파리대왕)
-- [낡은 보스턴백](https://www.hyesungoh.xyz/2023-review)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/github-metrics.svg)
