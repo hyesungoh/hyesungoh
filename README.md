@@ -14,11 +14,11 @@ I'm Hyesung Oh, Developer from :kr: South Korea. <br/>
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
+- [F-THON 1회 운영기](https://www.hyesungoh.xyz/f-thon-1st)
+- [&#39;피터 드러커의 자기경영 바이블&#39;을 읽고](https://www.hyesungoh.xyz/피터-드러커의-자기경영-바이블)
 - [&#39;단순한 열정&#39;을 읽고](https://www.hyesungoh.xyz/단순한-열정)
 - [&#39;실용주의 프로그래머&#39;를 읽고](https://www.hyesungoh.xyz/실용주의-프로그래머)
 - [도움이 되지 않는 달리기는 없다](https://www.hyesungoh.xyz/first-half-of-2024)
-- [&#39;그림으로 배우는 네트워크 원리&#39;를 읽고](https://www.hyesungoh.xyz/그림으로-배우는-네트워크-원리)
-- [&#39;유난한 도전&#39;을 읽고](https://www.hyesungoh.xyz/유난한-도전)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/github-metrics.svg)
