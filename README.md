@@ -14,11 +14,11 @@ I'm Hyesung Oh, Developer from :kr: South Korea. <br/>
 
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
+- [&#39;성과를 내고 싶으면 실행하라&#39;를 읽고](https://www.hyesungoh.xyz/성과를-내고-싶으면-실행하라)
 - [&#39;타이탄의 도구들&#39;을 읽고](https://www.hyesungoh.xyz/타이탄의-도구들)
 - [이타주의자](https://www.hyesungoh.xyz/second-half-of-2024)
 - [&#39;삼체&#39;를 읽고](https://www.hyesungoh.xyz/삼체)
 - [&#39;자바스크립트 + 리액트 디자인 패턴&#39;을 읽고](https://www.hyesungoh.xyz/자바스크립트-리액트-디자인-패턴)
-- [&#39;다니엘스의 러닝 포뮬러&#39;를 읽고](https://www.hyesungoh.xyz/러닝-포뮬러)
 <!-- BLOG-POST-LIST:END -->
 
 ![Metrics](/github-metrics.svg)
