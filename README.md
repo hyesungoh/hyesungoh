@@ -1,5 +1,4 @@
-<p align="left">
-
+<p align="left" width="50%">
 **Recent articles**
 <!-- BLOG-POST-LIST:START -->
 - [&#39;단위 테스트의 기술&#39;을 읽고](https://www.hyesungoh.xyz/단위-테스트의-기술)
@@ -11,5 +10,4 @@
 
 </p>
 
-<img align="right" src="https://render.gitanimals.org/lines/hyesungoh?pet-id=589962073398233318" width="400" height="500" />  
-
+<img align="right" src="https://render.gitanimals.org/lines/hyesungoh?pet-id=589962073398233318" width="50%" height="500" />  
